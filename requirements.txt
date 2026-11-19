@@ -5,3 +5,4 @@ ipykernel>=7.4
 nbconvert>=7.17
 nbformat>=5.11
 scipy>=1.14
+scikit-image>=0.25

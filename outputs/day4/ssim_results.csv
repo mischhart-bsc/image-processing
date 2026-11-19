@@ -1,0 +1,5 @@
+configuration,sigma_blur,sigma_noise,ssim_roi,delta_vs_c0
+C0 baseline,0.0,0.0,1.000000,0.000000
+C1 noise only,0.0,15.0,0.676256,-0.323744
+C2 blur only,2.5,0.0,0.700399,-0.299601
+C3 blur + noise,2.5,15.0,0.422379,-0.577621
